@@ -1,11 +1,3 @@
----
-name: puppeteer
-description: >
-  Browser automation with Puppeteer. Use this skill when the user mentions Puppeteer,
-  headless Chrome, Chrome DevTools Protocol, CDP, or needs Node.js browser automation,
-  PDF generation from web pages, or Chrome-specific automation features.
----
-
 # Puppeteer Browser Automation Skill
 
 Automate Chrome/Chromium with Puppeteer — Google's Node.js library for Chrome DevTools Protocol.
