@@ -1,13 +1,3 @@
----
-name: fingerprinting
-description: >
-  Browser fingerprinting knowledge. Use this skill when the user mentions browser
-  fingerprint, canvas fingerprint, WebGL fingerprint, WebRTC leak, antidetect browser,
-  browser identity, fingerprint spoofing, or needs to understand how websites identify
-  browsers. Also use when the user asks about privacy, tracking prevention, or
-  multi-account detection.
----
-
 # Browser Fingerprinting Skill
 
 Understand how websites identify browsers through fingerprinting, and how to manage
