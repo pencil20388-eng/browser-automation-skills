@@ -1,12 +1,3 @@
----
-name: selenium
-description: >
-  Browser automation with Selenium WebDriver. Use this skill when the user mentions
-  Selenium, WebDriver, ChromeDriver, browser testing, cross-browser automation, or
-  needs to automate web interactions using the Selenium framework. Also use when
-  connecting to existing browser instances via debug port.
----
-
 # Selenium WebDriver Automation Skill
 
 Automate browsers with Selenium — the most widely-used browser automation framework.
