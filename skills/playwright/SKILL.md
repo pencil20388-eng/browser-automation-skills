@@ -1,13 +1,3 @@
----
-name: playwright
-description: >
-  Browser automation with Playwright. Use this skill when the user mentions Playwright,
-  browser testing, web scraping with a browser, headless Chrome, page screenshots,
-  network interception, or needs to automate interactions with web pages (clicking,
-  typing, navigating, extracting data). Also use for PDF generation from web pages,
-  visual regression testing, and multi-browser automation.
----
-
 # Playwright Browser Automation Skill
 
 Automate browsers with Playwright — Microsoft's modern browser automation framework.
