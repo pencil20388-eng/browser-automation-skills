@@ -1,13 +1,3 @@
-[SKILL (1).md](https://github.com/user-attachments/files/28138464/SKILL.1.md)
----
-name: chrome-devtools-mcp-adspower
-description: >
-  Connect Chrome DevTools MCP to AdsPower antidetect browser profiles. Use this skill when
-  the user wants to use Chrome DevTools MCP with AdsPower, debug multiple browser identities
-  with AI agents, connect coding agents to antidetect browser profiles, or automate
-  multi-account workflows through Chrome DevTools Protocol with fingerprint isolation.
----
-
 # Chrome DevTools MCP + AdsPower Integration Skill
 
 Connect Google's Chrome DevTools MCP to AdsPower antidetect browser profiles. This lets
