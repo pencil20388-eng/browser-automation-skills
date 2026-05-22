@@ -1,12 +1,3 @@
----
-name: web-scraping
-description: >
-  Web scraping and data extraction. Use this skill when the user wants to scrape websites,
-  extract data from web pages, parse HTML, handle pagination, deal with anti-bot measures,
-  or collect structured data from the web. Covers both static (requests + BeautifulSoup)
-  and dynamic (browser-based) scraping approaches.
----
-
 # Web Scraping Skill
 
 Extract structured data from websites. Covers static scraping (fast, lightweight) and
