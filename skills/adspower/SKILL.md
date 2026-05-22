@@ -1,14 +1,3 @@
----
-name: adspower
-description: >
-  Manage AdsPower antidetect browser profiles through the Local API. Use this skill when
-  the user mentions AdsPower, antidetect browser, browser profiles, fingerprint browser,
-  multi-account management, batch create profiles, bind proxies, export cookies, check
-  fingerprints, account warmup, or browser automation with AdsPower. Also use when the user
-  wants to open/close browser profiles, manage proxies across profiles, or automate tasks
-  across multiple browser identities.
----
-
 # AdsPower Local API Automation Skill
 
 Automate AdsPower antidetect browser operations through its Local API. This skill handles
